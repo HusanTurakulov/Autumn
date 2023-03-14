@@ -1,0 +1,21 @@
+body{
+    background-color: antiquewhite;
+}
+pre{
+    color : black;
+    width: 60%;
+    padding: 10px;
+}
+.link{
+    border: 1px solid pink;
+}
+img{
+    width: 290px;
+    height: 260px;
+    margin-right: 5px;
+}
+.container{
+    display: flex;
+    width: 60vw;
+    margin: 0 auto;
+}
